@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Downloaded dataset and extracted files
+20news.tar.gz
+20news-bydate.tar.gz
+20news-bydate-train/
+20news-bydate-test/
+
+# Local outputs and OS files
+.DS_Store
+Thumbs.db
